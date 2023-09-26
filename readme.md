@@ -4,10 +4,10 @@ I'm Marco :shipit:, I was intern from March to October at ICube's Laboratory. I 
 
 Here is what I leave:
 
-- "Perlin noise dataset": code to generate a toy dataset via Perlin Noise.
+- **Perlin noise dataset**: code to generate a toy dataset via Perlin Noise.
 
-- "UNet": code for UNet
+- **UNet**: code for UNet
 
-- "functions": generic utilities functions (you can code them easily yourself tbh!)
+- **functions**: generic utilities functions (you can code them easily yourself tbh!)
 
 [^1]: a lot of times this isn't gonna be the case, just to warn you.
