@@ -10,9 +10,9 @@ This folder contains a single file containing general utility functions. Specifi
 
 ***IoU***
 
--IoU: compute IoU between two images.
+- IoU: compute IoU between two images.
 
--avg_IoU: compute average IoU between two folders of images.
+- avg_IoU: compute average IoU between two folders of images.
 
 ***Wasserstein/Fréchet distance***
 
