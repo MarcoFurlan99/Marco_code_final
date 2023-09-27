@@ -1,6 +1,6 @@
 # Functions
 
-This folder contains a single file containing general utility functions. Specifically:
+This folder contains a single file containing general utility functions. For more details read the functions descriptions (and try them yourself!)
 
 ***Folders***
 
@@ -22,11 +22,9 @@ This folder contains a single file containing general utility functions. Specifi
 
 ***Graph***
 
-- graph_2d: essentially the function matplotlib.pyplot.imshow with more parameters to control it.
-
-For more details read the functions descriptions (and try them yourself!)
+- graph_2d: essentially the function _matplotlib.pyplot.imshow_ with more parameters to control it.
 
 [^1]: basically os.makedirs
 [^2]: basically shutil.rmtree
 [^3]: see [https://github.com/mseitzer/pytorch-fid/blob/master/src/pytorch_fid/fid_score.py#L152](https://github.com/mseitzer/pytorch-fid/blob/master/src/pytorch_fid/fid_score.py#L152)
-[^4]: see pag.15 of [https://arxiv.org/abs/2006.16971](https://arxiv.org/abs/2006.16971). No promises on the computational stability of this implementation, often the imaginary component which arises inevitably from taking square root matrices is out of hand.
+[^4]: see pag.15 of [https://arxiv.org/abs/2006.16971](https://arxiv.org/abs/2006.16971). No promises on the computational stability of this implementation, sometimes the imaginary component which arises inevitably from taking square root matrices is out of hand.
