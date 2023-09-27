@@ -4,8 +4,10 @@ I'm Marco :shipit:, I was intern from March to October at ICube's Laboratory. I 
 
 Content:
 
-- **Dataset_generators**: code to generate a toy dataset via Perlin Noise.
+- **Dataset_generators**: code to generate toy datasets.
 
 - **Functions**: generic utilities functions.
 
 - **UNet**: UNet code.
+
+In the folders README files with details.
