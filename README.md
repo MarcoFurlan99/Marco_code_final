@@ -12,4 +12,6 @@ Contents:
 
 - ***example.ipynb***: notebook with example of use of all codes.
 
+- ***main.py***: ignore for the moment.
+
 In the folders README.md files with details.
