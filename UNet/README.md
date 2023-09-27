@@ -24,12 +24,14 @@ from UNet.predict import predict
 
 - Removed useless lines of code, logging messages, and wandb statistics (not relevant for my uses).
 
-- removed the parser/get args/if __name__=='__main__' because not fit for my purposes, now you can just call the train/predict functions.
+- removed the parser/get args/if __name__=='__main__' because not fit for my purposes, now you just call the train/predict functions.
 
 - set the inputs of train/predict functions to the bare minimum. All relevant parameters (learning rate, epochs, batch size, etc.) are displayed in the file "unet_parameters.py". You can change them from there.
 
-- added early stopping
+- added early stopping.
 
-- adjusted inputs of train/predict to be folders instead of list of image files
+- adjusted inputs of train/predict to be folders instead of list of image files.
 
-- possibly other minor modifications that I don't recall right now
+- possibly other minor modifications that I don't recall right now.
+
+![network architecture](https://i.imgur.com/jeDVpqF.png)
