@@ -4,25 +4,25 @@ This folder contains a single file containing general utility functions. For mor
 
 ***Folders***
 
-- create_directories: to create directory path.[^1]
+- *create_directories*: to create directory path.[^1]
 
-- remove_directory: to remove directory and its contents (please use carefully!).[^2]
+- *remove_directory*: to remove directory and its contents (please use carefully!).[^2]
 
 ***IoU***
 
-- IoU: compute IoU between two images.
+- *IoU*: compute IoU between two images.
 
-- avg_IoU: compute average IoU between two folders of images.
+- *avg_IoU*: compute average IoU between two folders of images.
 
 ***Wasserstein/Fréchet distance***
 
-- calculate_frechet_distance: compute Fréchet distance between two multivariate normal distributions.[^3]
+- *calculate_frechet_distance*: compute Fréchet distance between two multivariate normal distributions.[^3]
 
-- calculate_source_normalized_frechet_distance: compute source-normalized Fréchet distance between two multivariate normal distributions.[^4]
+- *calculate_source_normalized_frechet_distance*: compute source-normalized Fréchet distance between two multivariate normal distributions.[^4]
 
 ***Graph***
 
-- graph_2d: essentially the function _matplotlib.pyplot.imshow_ with more parameters to control it.
+- *graph_2d*: essentially the function _matplotlib.pyplot.imshow_ with more parameters to control it.
 
 [^1]: basically os.makedirs
 [^2]: basically shutil.rmtree
