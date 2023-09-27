@@ -1,6 +1,6 @@
 # U-Net
 
-This is the code for the U-Net! (from https://arxiv.org/abs/1505.04597)
+This is the code for the U-Net! (https://arxiv.org/abs/1505.04597)
 
 An example of use is shown in "example.ipynb".
 
