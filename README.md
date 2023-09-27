@@ -10,4 +10,6 @@ Contents:
 
 - **UNet**: UNet code.
 
-In the folders README files with details.
+- ***example.ipynb***: notebook with example of use of all codes.
+
+In the folders README.md files with details.
