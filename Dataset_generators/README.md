@@ -1,6 +1,6 @@
 # Dataset_generators
 
-The file _dataset_perlin_noise.py_ contains:
+The file **dataset_perlin_noise.py** contains:
 
 - _generate_masks_: generate masks with Perlin noise;
 
@@ -50,7 +50,7 @@ The file _dataset_perlin_noise.py_ contains:
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/edges/7.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/edges/8.png)
 
-The file _dataset_triangles_and_circles.py_ contains:
+The file **dataset_triangles_and_circles.py** contains:
 
 - _triangles_and_circles_: create masks and images of circles and triangles.
 
