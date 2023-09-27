@@ -1,6 +1,8 @@
 # U-Net
 
-This is the code for the U-Net! An example of use is shown in "example.ipynb".
+This is the code for the U-Net! (from https://arxiv.org/abs/1505.04597)
+
+An example of use is shown in "example.ipynb".
 
 The original code is from https://github.com/milesial/Pytorch-UNet [^1].
 
