@@ -2,7 +2,7 @@
 
 The file _dataset_perlin_noise.py_ contains:
 
-- generate_masks: generate masks with Perlin noise;
+- _generate_masks_: generate masks with Perlin noise;
 
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/masks/0.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/masks/1.png)
@@ -14,7 +14,7 @@ The file _dataset_perlin_noise.py_ contains:
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/masks/7.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/masks/8.png)
 
-- img_white_noise: add white noise;
+- _img_white_noise_: add white noise;
 
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/white_noise/0.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/white_noise/1.png)
@@ -26,7 +26,7 @@ The file _dataset_perlin_noise.py_ contains:
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/white_noise/7.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/white_noise/8.png)
 
-- img_gradient: add Perlin noise color;
+- _img_gradient_: add Perlin noise color;
 
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/gradient/0.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/gradient/1.png)
@@ -38,7 +38,7 @@ The file _dataset_perlin_noise.py_ contains:
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/gradient/7.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/gradient/8.png)
 
-- img_edges: outline edges;
+- _img_edges_: outline edges.
 
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/edges/0.png)
 ![](https://raw.githubusercontent.com/MarcoFurlan99/Marco_code_final/master/example_datasets/edges/1.png)
