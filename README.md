@@ -8,6 +8,6 @@ Content:
 
 - **UNet**: UNet code.
 
-- **functions**: generic utilities functions.
+- **Functions**: generic utilities functions.
 
 [^1]: a lot of times this isn't gonna be the case, just to warn you.
